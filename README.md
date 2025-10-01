@@ -17,7 +17,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas  
 ✔️ **Linguagens & Análises:** SQL | Python (em aprendizado) | Excel Avançado  
-✔️ **Visualização de Dados:** Power BI  | Looker
+✔️ **Visualização de Dados:** Power BI  | Looker    
 ✔️ **Automação & Apps:** Power Apps  
 ✔️ **Metodologias:** KABAN | SCRUN | SMART | 5W2H | SWOT
 
